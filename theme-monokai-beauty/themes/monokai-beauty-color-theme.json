@@ -1,6 +1,7 @@
 {
     "type": "beauty",
     "colors": {
+        "tab.activeBackground": "#4f7fbd",
         "dropdown.background": "#414339",
         "list.activeSelectionBackground": "#75715E",
         "quickInputList.focusBackground": "#414339",
