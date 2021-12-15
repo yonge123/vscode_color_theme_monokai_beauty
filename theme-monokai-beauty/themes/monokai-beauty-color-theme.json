@@ -1,7 +1,10 @@
 {
     "type": "beauty",
     "colors": {
-        "tab.activeBackground": "#4f7fbd",
+        "tab.activeBackground": "#3794ff91",
+        "scrollbarSlider.background": "#2e6fb991",
+        "scrollbarSlider.activeBackground": "#3794ff91",
+        "scrollbarSlider.hoverBackground": "#3794ff91",
         "dropdown.background": "#414339",
         "list.activeSelectionBackground": "#75715E",
         "quickInputList.focusBackground": "#414339",
